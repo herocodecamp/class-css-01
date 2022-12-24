@@ -1,0 +1,62 @@
+/* p  {
+   color: #000;
+   font-weight: bold;
+   font-size: 20px;
+   
+} */
+
+/* div p{
+color: red;
+font-weight: bold;
+} */
+* {
+  margin: 0;
+  padding: 0;
+}
+.hero {
+  background-color: black;
+  color: white;
+  font-size: 28px;
+}
+#id {
+  background-color: rgb(165, 26, 26);
+  color: white;
+  font-size: 28px;
+}
+.other {
+  background-color: blue;
+}
+.tato {
+  color: aquamarine;
+}
+
+input,
+span {
+  background-color: aqua;
+  padding: calc(100%-10%);
+}
+
+.flex {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  /* 
+   */
+   justify-content: center;
+   align-items: center;
+  height: 500px;
+  
+}
+/* 
+direction=> row
+justify-content=> row borabar
+align-items=> cloumn
+
+
+direction=> column
+justify-content=> cloumn
+align-items=> row
+
+
+
+*/
